@@ -1,0 +1,11 @@
+D:\TestConcepts\builder\bin\Debug\netcoreapp3.0\builder.exe
+D:\TestConcepts\builder\bin\Debug\netcoreapp3.0\builder.deps.json
+D:\TestConcepts\builder\bin\Debug\netcoreapp3.0\builder.runtimeconfig.json
+D:\TestConcepts\builder\bin\Debug\netcoreapp3.0\builder.runtimeconfig.dev.json
+D:\TestConcepts\builder\bin\Debug\netcoreapp3.0\builder.dll
+D:\TestConcepts\builder\bin\Debug\netcoreapp3.0\builder.pdb
+D:\TestConcepts\builder\obj\Debug\netcoreapp3.0\builder.csprojAssemblyReference.cache
+D:\TestConcepts\builder\obj\Debug\netcoreapp3.0\builder.AssemblyInfoInputs.cache
+D:\TestConcepts\builder\obj\Debug\netcoreapp3.0\builder.AssemblyInfo.cs
+D:\TestConcepts\builder\obj\Debug\netcoreapp3.0\builder.dll
+D:\TestConcepts\builder\obj\Debug\netcoreapp3.0\builder.pdb
