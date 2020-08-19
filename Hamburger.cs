@@ -5,10 +5,10 @@ using System.Text;
 
 namespace builder
 {
-    public class Hamburguer
+    //product
+    public class Hamburger
     {
-        public Beef BeefMeat { get; set; }
-        public ChickenMeat Chicken { get; set; }
+        public Meat Meat { get; set; }
         public Lettuce Lettuce { get; set; }
         public Onion Onion { get; set; }
         public Tomato Tomato { get; set; }

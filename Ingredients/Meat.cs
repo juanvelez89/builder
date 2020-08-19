@@ -4,7 +4,9 @@ using System.Text;
 
 namespace builder.Ingredients
 {
-    public class ChickenMeat
+    public class Meat
     {
+        public string Color { get; set; }
+        public string Textura { get; set; }
     }
 }
