@@ -7,9 +7,9 @@ namespace builder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("por favor escoja su hamburguesa:");
-            Console.WriteLine("1. para carne de res");
-            Console.WriteLine("2. para carnde de pollo");
+            Console.WriteLine("please choose meat for your hamburger:");
+            Console.WriteLine("1. beef");
+            Console.WriteLine("2. chicken meat");
             int opcionHamburger = int.Parse(Console.ReadLine());
             HamburgerDirector hamburgerDirector = new HamburgerDirector();
             Hamburger hamburger = new Hamburger();
@@ -25,7 +25,7 @@ namespace builder
                     break;
             }
 
-            Console.WriteLine("Esta es las propiedades de la carne elegida: " + hamburger.Meat.Color + ", " + hamburger.Meat.Textura);
+            Console.WriteLine("the propierties of your chosen meat are: " + hamburger.Meat.Color + ", " + hamburger.Meat.Textura);
         }
     }
 }
